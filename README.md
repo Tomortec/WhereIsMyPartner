@@ -1,6 +1,6 @@
 <img style="width: 100%; margin-bottom: 1.5rem;" src="./BANNER.jpg" />   
 
-<p style="font-size: 2rem; font-weight: bold;" align="center">Where Is My Partner</p> 
+<h1 align="center">Where Is My Partner</h1> 
 
 > <p align="center">WIMP, not wimp!</p>
 
