@@ -1,7 +1,8 @@
-![](./BANNER.jpg)
+<img style="width: 100%; margin-bottom: 1.5rem;" src="./BANNER.jpg" />   
 
-# Where Is My Partner
-> WIMP, not wimp!
+<p style="font-size: 2rem; font-weight: bold;" align="center">Where Is My Partner</p> 
+
+> <p align="center">WIMP, not wimp!</p>
 
 ## 🔥 欢迎
 欢迎来到这个**帮助CS伙伴找团队/找成员/交朋友/分享想法**的仓库。本仓库致力于帮助CS伙伴们为创业/打比赛招募成员！欢迎朋友们分享仓库，仓库触达的伙伴越多，越容易找到成员/团队！
